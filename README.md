@@ -10,4 +10,10 @@ Real-Time Object Measurement System Computer Vision–based contactless measurem
 
 📊 Performance 90%+ measurement accuracy ~0.4s per frame
 
+👥 Contributors
+
+Saranya Purushothaman
+Ashwin K
+Padma Aishvarya S
+
 Video Links : How to install Opencv in Python:https://youtu.be/CJXIjApHYVs 5 Must Know OpencCV Functions:https://youtu.be/7kHhz7nkpBw
